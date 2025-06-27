@@ -11,6 +11,7 @@
 PS C:\Users\caua\Desktop\selenium-terraplanner-tests> npm test
 > selenium-terraplanner-tests@1.0.0 test
 > mocha terraplanner.test.mjs
+```
 
 Teste de Aceitação de Pesquisa de Mapa do TerraPlanner
 Teste concluído: pesquisa de endereço válido e completo.
@@ -50,6 +51,5 @@ Teste concluído.
 ✔️ deve planejar uma rota e definir o tipo de estrada como mais rápida (11893ms)
 
 Resumo da Execução
-5 passing (38s)
-
 1 failing
+5 passing (38s)
