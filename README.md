@@ -18,16 +18,12 @@ Teste concluído: pesquisa de endereço válido e completo.
 
 ✔️ deve pesquisar um endereço completo e válido e centralizar o ponto exato (9085ms)
 Teste concluído: Pesquisa com campo vazio.
-
 ✔️ deve exibir a notificação de erro da API ao pesquisar com o campo vazio (557ms)
 Teste concluído: Selecionou a primeira sugestão.
-
 ✔️ deve pesquisar um endereço e selecionar a primeira sugestão (1868ms)
 Teste concluído: pesquisa de somente (cidade, estado).
-
 ✔️ deve pesquisar apenas com cidade e estado e centralizar o ponto exato (5243ms)
 Teste Falhou: deve exibir notificação de erro para um endereço inexistente.
-
 deve exibir notificação de erro para um endereço inexistente
 Detalhes do Erro:
 1) Teste de Aceitação de Pesquisa de Mapa do TerraPlanner
