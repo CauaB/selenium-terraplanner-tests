@@ -5,7 +5,7 @@ import { assert } from 'chai';
 describe('Teste de Aceitação de Pesquisa de Mapa do TerraPlanner', function() {
     this.timeout(30000); // Define um tempo limite de 30 segundos para o teste
     let driver;
-    
+
     // Inicializa o driver do navegador
     before(async function() {
         driver = await new Builder().forBrowser('firefox').build();
