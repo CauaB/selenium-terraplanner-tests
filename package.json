@@ -1,0 +1,19 @@
+{
+  "name": "selenium-terraplanner-tests",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha terraplanner.test.mjs"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "chai": "^5.2.0",
+    "chromedriver": "^138.0.0",
+    "geckodriver": "^5.0.0",
+    "mocha": "^11.7.1",
+    "selenium-webdriver": "^4.33.0"
+  }
+}
