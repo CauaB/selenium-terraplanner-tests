@@ -14,7 +14,7 @@
 * `mocha`: framework para rodar os testes.
 * `chai`: biblioteca para as asserções (assert).
 * **Instalar dependências:** `npm install`
-### Execução
+#### Execução dos testes
 
 ```bash
 PS C:\Users\caua\Desktop\selenium-terraplanner-tests> npm test
